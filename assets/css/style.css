@@ -1,0 +1,270 @@
+.navbar-brand img{
+    height: 70px;
+}
+
+.nav-item{
+
+    text-align: left;
+}
+.navbar-toggler{
+    border: none;
+}
+ .navbar-toggler-icon{
+    color: blue;
+
+}
+.nn{
+
+padding-right: 80px;
+width:670px;
+margin-left: -100px;
+
+
+}
+.mo{
+    width: 550px;
+    margin-right: -100px;
+    
+}
+
+ .navbar-toggler-icon {
+    background-image: url("data:image/svg+xml;charset=utf8,%3Csvg viewBox='0 0 32 32' xmlns='http://www.w3.org/2000/svg'%3E%3Cpath stroke='rgba(58,173,230, 0.5)' stroke-width='2' stroke-linecap='round' stroke-miterlimit='10' d='M4 8h24M4 16h24M4 24h24'/%3E%3C/svg%3E") !important;
+  }
+  .moooo{
+      width: 450px;
+      margin-top: -120px;
+  }
+  .vvv{
+      text-align: left;
+  }
+  .services{}
+
+  .item{
+
+    margin-top: 100px;
+    border: 2px solid rgb(226, 221, 221);
+    padding: 3px;
+    border-radius: 20px;
+    background-color: white;
+    width: 280px;
+    height: 350px;
+    
+  }
+  .vb{
+      width: 200px !important;
+      padding-right: 60px;
+
+  }
+  .haa{
+      color: rgb(54, 54, 209);
+      text-align: center;
+  }
+  .loo{
+    font-size: 17px; 
+    font-style: italic;
+    text-align: center;
+  }
+  .nav{
+
+    width: 40px;
+  }
+  .owl-nav{
+      margin-top: 200px;
+      margin-right: 500px;
+     width: 50%;
+     margin-left: 100px;
+     
+  }
+  .owl-prev{
+      width: 50px;
+      background-color: black;
+  }
+  .owl-next{
+      width: 50px;
+      
+  }
+  .lop{
+      height: 300px;
+      width: 300px;
+  }
+.lopp{
+    height: 200px;
+    width: 250px;
+}
+.dd{
+    background-color: white;
+    border-radius: 20px;
+    margin-right: 50px;
+    margin-bottom: 50px;
+    height: 300px;
+    width: 260px;
+}
+.gh{
+  width: 300px;
+  padding-left: 60px;
+  padding-top: 6px;
+  height: 250px;
+}
+.momm{
+    width: 100%;
+    height: 400px;
+    
+}
+.zzzz{
+    width: 300px;
+    margin: 60px;
+}
+.zzz{
+    width: 210px;
+    margin: 60px;
+}
+.pp{
+    margin-top: -50px;
+}
+.social{
+    position: absolute;
+
+}
+.social li{
+    display: inline;
+    margin: 20px;
+   
+    color: white;
+}
+.social li .fa {
+    font-size: 30px;
+    color:floralwhite;
+}
+.aa{
+    width: 155px !important;
+    height: 140px;
+    margin-top: 12px;
+    padding: 1px;
+    margin-right: 40px ;
+}
+
+
+.as{
+    width: 500px;
+    margin-top: 100px;
+    margin-right: 100px;
+}
+.ff{
+    width: 180px;
+    height: 40px;
+    border-radius: 15px;
+    background-color: rgb(29, 2, 44);
+    
+    
+    
+}
+.llo{
+
+    color: white;
+    padding: 6px;
+    font-size: 17px;
+}
+.mc{
+    border-radius: 10px;
+    height: 30px;
+    background-color: rgb(29, 2, 44);;
+}
+.mcc{
+    color: white;
+}
+.ww{
+
+margin: 100px;
+}
+.srcl{
+
+    border-radius: 10px;
+}
+.mt-4{
+    border-radius: 20px;
+}
+.aaq{
+    margin-bottom: 10px;
+}
+
+
+.de{
+    border-radius: 100px;
+    padding:30px;
+}
+.car{
+    border-radius: 20px;
+}
+.fff{
+    width: 180px;
+    height: 40px;
+    border-radius: 15px;
+    background-color: rgb(29, 2, 44);
+    text-align: center;
+   margin-left: 10px; 
+    
+    
+}
+.lloo{
+
+    color: white;
+    padding: 6px;
+    font-size: 17px;
+}
+.llooo{
+    padding-right: 500px;
+    padding-top: 30px;
+}
+.qaa{
+    text-decoration: none;
+    font-size: 20px;
+    padding-bottom: 20px;
+    color: black;
+}
+
+.qqa{
+padding-top: 60px;
+padding-right: 500px;
+font-size: 25px;
+
+}
+.ssa{
+    padding-right: 550px;
+    padding-top: 60px;
+}
+.dd {
+    margin-left: 370px;
+    width: 600px;
+    height: 600px;
+    border: 10px solid rgb(146, 141, 141);
+    position: scroll;
+}
+.as{
+
+    margin-left: 160px;
+    margin-top: 60px;
+    width: 300px;
+
+}
+.ass{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-size: 17px;
+    width: 400px;
+    margin-right: 80px;
+}
+ .qe{
+
+    margin-top: 100px;
+    border: 2px ;
+    background-color:rgb(0, 162, 255);
+    padding: 3px;
+    
+    
+    width: 200px;
+    height: 165px;
+}
+.owl-nav{
+    margin-top: 50px !important;
+    margin-right: 280px;
+    font-size: 30px;
+}
