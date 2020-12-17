@@ -349,19 +349,30 @@
 
 
          <div>
-          <section id="our-client">
+          <div style="background: url(imgs/our-client-bg.jpg);background-size: 100% 100%;">
             <div class="container">
-                <div class="row">
-                    <div class="col-md-12">
-                        <div class="owl-carousel owl-theme owl-loaded owl-drag" id="owl-clients" dir="ltr">
-                                                                    
-                                                
-                                                
-                                                
-                  
-                    </div>
+              <!-- Set up your HTML-->
+              <div class="owl-carousel proud-carousel ">
+               
+                <div class="bcarsoul">
+                  <img style="width: 150px; margin-top: 50px ;" src="imgs/smart.png">
                 </div>
+      
+                <div class="bcarsoul">
+                  <img   style="width: 150px ; margin-top: 50px" src="imgs/one.png">
+                </div>
+      
+                <div class="bcarsoul">
+                  <img style="width: 150px; margin-top: 50px" src="imgs/elnesr.png">
+                </div>
+      
+                <div class="bcarsoul">
+                  <img style="width: 150px; margin-top: 50px" src="imgs/dokan.png">
+                </div>
+              </div>
             </div>
+          </div>
+      
         </section>
 
 
@@ -407,7 +418,32 @@
 })
 
   </script>
-  <script src="./index_files/zzz.js.download">
+
+  <script >
+     $('.qwl-carousel').proud-carousel({
+    loop:true,
+    rtl:true,
+    margin:10,
+    nav:true,
+    dost:false,
+    responsiveClass:true,
+    responsive:{
+        0:{
+            items:1,
+            nav:true
+        },
+        600:{
+            items:2,
+            nav:true,
+        },
+        1000:{
+            items:4,
+            nav:true,
+            loop:false,
+            dost:false,
+        }
+    }
+})
     
   </script>
 
