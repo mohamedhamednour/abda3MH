@@ -35,6 +35,9 @@
           <li class="nav-item">
             <a class="nav-link " href="indexx.html" tabindex="-1" aria-disabled="true">اعمالنا</a>
           </li>
+          <li class="nav-item">
+            <a class="nav-link " href="index5.html" tabindex="-1" aria-disabled="true"> 2اعمالنا</a>
+          </li>
         </ul>
        
       </div>
@@ -372,7 +375,7 @@
       
         </section>
          <!--..............................  footer .................................. -->
-  <footer style="background: url(imgs/footer.jpg); background-size: 100% 100%;"">
+  <footer style="background: url(imgs/footer.jpg); background-size: 100% 100%;">
     <div class="container">
       <div class="row py-5 ">
 
@@ -384,8 +387,8 @@
           <div class="row mt-5 ">
             <img class="logo2" src="imgs/footer-logo3.png">
             <div style="margin-right: 26px; color: white;">
-              <span> <h4 style="color: white;">ابداع تك </h4> </span>
-              <p style="color: white;">لبرمجة الويب وتطبيقات الموبايل</p>
+             
+             
               <p style="color: white;">المنصورة- حى الجامعة-تقسيم الزعفران</p>
             </div>
             </div>
@@ -422,7 +425,7 @@
     rtl:true,
     margin:10,
     nav:true,
-    dost:false,
+    dots:false,
     responsiveClass:true,
     responsive:{
         0:{
@@ -443,6 +446,33 @@
 })
 
   </script>
+   <script>
+    $('.owl-carousel').owlCarousel({
+       loop:true,
+       rtl:true,
+       margin:10,
+       nav:true,
+       dots:false,
+       responsiveClass:true,
+       responsive:{
+           0:{
+               items:1,
+               nav:true
+           },
+           600:{
+               items:2,
+               nav:true,
+           },
+           1000:{
+               items:3,
+               nav:true,
+               loop:false,
+               dost:false,
+           }
+       }
+   })
+   
+     </script>
 
   <script >
      $('.qwl-carousel').proud-carousel({
