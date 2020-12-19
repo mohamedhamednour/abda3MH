@@ -21,11 +21,9 @@ body{
 }
 
 
-.mo{
-    width: 280px;
-    margin-right: 10;
-    margin-top: px;
-    
+.img-fluid{
+  
+    width: 450px;
 }
 .low-{
     height: auto;
