@@ -74,12 +74,7 @@ body{
 
     width: 40px;
   }
-  .owl-nav{
-      margin-top: 200px;
-      margin-right: 300px;
-      left: 100px;
-     width: 50%;
-     margin-left: 100px;
+  
      
   }
   .owl-prev{
@@ -282,10 +277,10 @@ font-size: 25px;
     height: 165px;
 }
 .owl-nav{
-    margin-top: 30px !important;
-    margin-right: 150px;
+    margin-top: 50px ;
+    
     text-align: center;
-    font-size: 40px;
+    font-size: 35px;
 }
 .ssq{
     
