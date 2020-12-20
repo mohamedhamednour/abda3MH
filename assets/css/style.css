@@ -76,7 +76,8 @@ body{
   }
   .owl-nav{
       margin-top: 200px;
-      margin-right: 500px;
+      margin-right: 300px;
+      left: 100px;
      width: 50%;
      margin-left: 100px;
      
@@ -185,6 +186,18 @@ margin: 100px;
 
     border-radius: 10px;
 }
+.sociall{
+    position: absolute;
+    right: 90px;
+}
+.sociall li{
+    width: 40px;
+    font-size: 30px;
+    color: floralwhite;
+    margin-left:10px ;
+    margin-bottom: 20px;
+}
+
 .mt-4{
     border-radius: 20px;
 }
@@ -269,9 +282,10 @@ font-size: 25px;
     height: 165px;
 }
 .owl-nav{
-    margin-top: 50px !important;
+    margin-top: 30px !important;
     margin-right: 150px;
-    font-size: 30px;
+    text-align: center;
+    font-size: 40px;
 }
 .ssq{
     
@@ -283,6 +297,9 @@ font-size: 25px;
 }
 .bcarsoul{
     margin-right: 100px;
+}
+.ph:visited{
+text-decoration: none;
 }
 .oneborder{
     border-right:  5px solid rgb(0, 140, 255);
