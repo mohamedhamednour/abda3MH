@@ -78,7 +78,7 @@ body{
      
   }
   .owl-prev{
-      width: 50px;
+      width: 10px;
       background-color: black;
   }
   .owl-next{
@@ -291,7 +291,7 @@ font-size: 25px;
     margin-top: 100px;
 }
 .bcarsoul{
-    margin-right: 100px;
+    margin-right: 20px;
 }
 .ph:visited{
 text-decoration: none;
